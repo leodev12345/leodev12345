@@ -1,5 +1,7 @@
 ### Hi there 👋
-### I am Leo an i am a GameDev
-### Please join my discord server for info about my games [https://discord.gg/puuF2BbRwU](https://discord.gg/puuF2BbRwU)
-### Also check out my other projects 
-[![TheLeoDevelopers's github stats](https://github-readme-stats.vercel.app/api?username=leodev12345&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+I am Leo, I am a hobbyist developer and a homelabber
+You can join my gamedev discord server if you want here [https://discord.gg/puuF2BbRwU](https://discord.gg/puuF2BbRwU)
+Check out my YoutTube channel here [https://www.youtube.com/channel/UCcaa30QRpntD4huideQsISg](https://www.youtube.com/channel/UCcaa30QRpntD4huideQsISg)
+You can email me at [pycityproject@gmail.com](mailto:pycityproject@gmail.com)
+
+
