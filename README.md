@@ -1,3 +1,4 @@
+![cover](yt_cover_new.jpg)
 ### Hi there 👋
 I am Leo, I am a hobbyist developer and a homelabber
 
